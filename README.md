@@ -1,4 +1,4 @@
-Matrix-Equation-Solver
+SystemOfLinearEquation-Solver
 ======================
 
-This is a cross entropy method based matrix equation solver, for AX = B, where A and B are given. It gives approximate solution. You can also find it on pastebin ,http://pastebin.com/Q4c73Kdi
+This is a cross entropy method based system of linear equations solver, for AX = B, where 2D matrix A and vector B are given, *where number of varibales are greater than number of given equations*. Since it uses probabilistic approach, it gives approximate solution. You can also find it on pastebin ,http://pastebin.com/Q4c73Kdi
